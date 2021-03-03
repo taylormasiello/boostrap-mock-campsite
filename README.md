@@ -1,6 +1,6 @@
 # Nucampsite - A Project with Bootstrap
 
-I'm currently a student at Nucamp, an online coding bootcamp. This was our first class portfolio project, in which we made a mock campsite as we learned Bootstrap. I'm learning how to use GitHub as well, so this is my first time uploading a completed project, so I hope I uploaded the correct files...we'll see. I hope to use GitHub more traditionally with my next project, instead of waiting until the project was completed to add it to a repository. 
+I'm currently a student at Nucamp, an online coding bootcamp. This was our first class portfolio project, in which we made a mock campsite as we learned Bootstrap. I'm learning how to use GitHub as well, so this is my first time uploading a completed project. Hopefully I uploaded the correct files...we'll see. I hope to use GitHub more traditionally with my next project, instead of waiting until the project is completed to upload it all at once to a repository.
 
 Bootstrap Lessons Learned during its' module (among others): 
 
